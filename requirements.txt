@@ -4,6 +4,5 @@ numpy
 scipy
 numpy
 pandas
-math
 matplotlib
 collections
