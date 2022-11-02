@@ -128,7 +128,6 @@ psycopg2==2.8.6
 pyarrow==10.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Users/SHUBHAM/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
 pycparser==2.20
 pycryptodome==3.14.1
 pydeck==0.8.0b4
