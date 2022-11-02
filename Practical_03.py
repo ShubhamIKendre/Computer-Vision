@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import cv2
 import numpy as np
-from Practical_03.Hough_Transform_Circle import hough_transformation
+from Hough_Transform_Circle import hough_transformation
 
 
 
