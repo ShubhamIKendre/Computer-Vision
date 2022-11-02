@@ -42,7 +42,7 @@ defusedxml
 distlib
 Django
 django-crispy-forms
-django-model-util
+django-model-utils
 docutils
 effect
 entrypoints
