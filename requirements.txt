@@ -1,6 +1,5 @@
 streamlit
 image
-cv2
 numpy
 scipy
 numpy
