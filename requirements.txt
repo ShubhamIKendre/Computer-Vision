@@ -1,8 +1,8 @@
-streamlit
-image
-numpy
-scipy
+streamlit==1.14.0
+image==1.5.33
+opencv-contrib-python==4.6.0.66
+opencv-python==4.5.5.64
 numpy
 pandas
-matplotlib
-cv2
+math
+mathplotlib
