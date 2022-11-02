@@ -76,12 +76,6 @@ jupyter-server
 jupyterlab
 jupyterlab-pygments
 jupyterlab-server
-Kivy
-kivy-deps.angle
-kivy-deps.glew
-kivy-deps.sdl2
-Kivy-Garden
-kiwisolver
 log-symbols
 lxml
 makefun
