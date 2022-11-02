@@ -64,9 +64,9 @@ image
 importlib-metadata
 imutils
 ipykernel
-ipython=
+ipython
 ipython-genutils
-jedi=
+jedi
 Jinja2
 json5
 jsonschema
