@@ -109,7 +109,7 @@ packagi
 panda
 pandocfilter
 pars
-pefile==2
+pefile
 pickleshar
 Pillo
 play-sound
@@ -128,10 +128,10 @@ pyasn
 pyasn1-module
 pycpars
 pycryptodome
-pydeck=
+pydeck
 Pygment
 pyinstal
-pyinstaller-hooks-contrib=
+pyinstaller-hooks-contrib
 pyjniu
 PyJW
 Pymple
