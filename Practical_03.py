@@ -2,9 +2,6 @@ import streamlit as st
 from PIL import Image
 import cv2
 import numpy as np
-from Hough_Transform_Circle import hough_transformation
-
-
 
 #greyscale filter
 def greyscale(img):
@@ -142,7 +139,6 @@ def main_opration():
 
     Insta_Filter()
     st.text("_____________________________________________________________________________________________________________")
-    hough_transformation()
 
 if __name__ == "__main__":
     main_opration()
